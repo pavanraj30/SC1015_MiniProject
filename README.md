@@ -12,7 +12,7 @@ Using the data available,
 - Over the years, all the stock prices increased. However, day to day price movements seemed to be erratic and unpredictable. It was difficult, just from the data, to discern any pattern of which day would the price of a given stock increase or decrease, and by how much.
 
 
-### [1. Data Prepartion & Exploratory Data Analysis]
+### [1. Data Prepartion & Exploratory Data Analysis] 
 - Plotted out the closing price of each day with the date
 - Check the correlation of each day’s open and close price, which turned out to be almost perfectly linear
 - Realised we could take advantage of the short term fluctuations
