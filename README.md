@@ -7,7 +7,7 @@ Using the data available,
 - Which machine learning model is the most appropriate in predicting price movements in the stock market based on a set of predictors?
 
 ## Dataset
-- Dataset from kaggle by Cam Nugent
+- Dataset from kaggle by Cam Nugent (link provided under references as the file was too large to be uploaded onto github)
 - Consist of open and close prices as well as day high and day low prices for all the stocks included in the S&P500 market index from 2013 to 2018
 - Over the years, all the stock prices increased. However, day to day price movements seemed to be erratic and unpredictable. It was difficult, just from the data, to discern any pattern of which day would the price of a given stock increase or decrease, and by how much.
 
