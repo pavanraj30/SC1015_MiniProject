@@ -40,7 +40,7 @@ Using the data available,
 
 
 
-### [4. ML Technique 3: Regression Analysis](Lin Reg.ipynb)
+### [4. ML Technique 3: Regression Analysis](Lin_Reg.ipynb)
 - Used the past 9 trading days of data to try to predict the next day’s price movement
 - Assumption: Prices remain stable and will trend towards the local average
 - Price movement is calculated by taking the difference between the current day’s closing price and the previous day’s closing price
