@@ -34,7 +34,7 @@ Using the data available,
 - Extracted the opening, closing prices and date of the NVDA stock from the data set and created a data frame with a new column consisting of the closing and opening price difference
 - Checking for stationarity is important because it not only makes modelling time series easier, but it is an underlying assumption in many time series methods such as the one we will use in this project-ARIMA
 - For forecasting, we used the ARIMA or autoregressive integrated moving average model which is a statistical analysis model that predicts future values based on past values
-- Model has explained variance of only -.027 and a high RMSE of 8.67 -> does not accurately predict the price fluctuation on a daily basis
+- Model has explained variance of only -0.027 and a high RMSE of 8.67 -> does not accurately predict the price fluctuation on a daily basis
 - Predicts accurately 6 out of 9 times, i.e, with an accuracy of 66.7%  when we check whether we will make a profit on a certain day 
 - Even though our model does not accurately predict the magnitude of price fluctuations due to the large volatility in the market, it can still somewhat accurately capture the market trend and predict whether the price will rise or fall on a certain day
 
