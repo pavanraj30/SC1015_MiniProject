@@ -29,7 +29,7 @@ Using the data available,
 - Proceed to plot a decision tree with max depth 2 and 4 for our analysis
 - Both trees gave us similar results when it came to its test data accuracy - here being 52% indicating that this might not be a good model after all
 
-### [3. ML Technique 2: Time Series Forecasting](Time series regression.ipynb)
+### [3. ML Technique 2: Time Series Forecasting](Time_Series_Regression.ipynb)
 - Process of analyzing time series data using statistics and modelling to make predictions and informed strategic decisions
 - Extracted the opening, closing prices and date of the NVDA stock from the data set and created a data frame with a new column consisting of the closing and opening price difference
 - Checking for stationarity is important because it not only makes modelling time series easier, but it is an underlying assumption in many time series methods such as the one we will use in this project-ARIMA
