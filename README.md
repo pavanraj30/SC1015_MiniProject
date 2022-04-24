@@ -69,4 +69,6 @@ Using the data available,
 - Aditya Kumar Pugalia (U2123212D) 
 
 ## References  
-
+- https://builtin.com/data-science/time-series-python 
+- https://www.kaggle.com/datasets/camnugent/sandp500
+- https://www.investopedia.com/terms/r/rsi.asp 
