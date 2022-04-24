@@ -1,6 +1,6 @@
 # SC1015_MiniProject
 ## Description  
-Our motivation behind this Data Science project was to use data available to us to predict future stock price movements. In stock trading, the majority of decisions made are motivated by convictions that are subjective in nature. At what price is a stock a good buy, how we think the market will move day to day, etc differ greatly from person to person, even when it comes to industry professionals. This made us wonder if there was a way to make market decisions more objectively, using large amounts of data to find correlations and patterns. 
+Our motivation behind this Data Science project was to use data available to us to predict future stock price movements. In stock trading, the majority of decisions made are motivated by convictions that are subjective in nature. At what price a stock is a good buy, how we think the market will move day to day, etc differ greatly from person to person, even when it comes to industry professionals. This made us wonder if there was a way to make market decisions more objectively, using large amounts of data to find correlations and patterns. 
 
 ## Problem Definition  
 Using the data available,  
